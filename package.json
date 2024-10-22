@@ -1,5 +1,6 @@
 {
   "name": "todo-app",
+  "homepage": "https://ebroahmed.github.io/Todo-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
